@@ -56,3 +56,7 @@ print(" True and False is ", True or False) # Fasle
 print( " True and True is ", True or True ) # True
 print( " False and False is ", False or False ) # False
 print( " False and Treu is ", False or True )  # False
+
+
+print("not")
+print( not(True))
