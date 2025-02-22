@@ -28,3 +28,13 @@ print( b )  # Output will be 18
 print(" For divide ( /= ) of assignment operator ")
 b /= 3  #  Division the value of b by 3 and then assing it to b 
 print( b )  # Output will be 6
+
+# Comparison Operators
+d = 5<4
+print(d)
+
+e = 5 != 7
+print(e)
+
+f = 4 == 4
+print(f)
